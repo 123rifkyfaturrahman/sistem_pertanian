@@ -133,7 +133,7 @@ onclick="return confirm('Hapus data ini?')">
 
 </tr>
 
-<?php } ?>
+<?php } ?>  
 
 </tbody>
 
